@@ -2,7 +2,7 @@
 title: Pulickal 
 subtitle: Ramblings and Reposites
 email: tony@pulickal.net
-description: A personal portfolio, blog, and dumping ground built on Jekyll 
+description: A personal portfolio, blog, and dumping ground
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: pulickal.net # the base hostname & protocol for your site
 author: Tony Pulickal
