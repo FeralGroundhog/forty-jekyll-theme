@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+	{% include header.html %}
+	<div id="main">
+		<section id="one" class="tiles">
+			{% for post in site.posts %}
+			<article>
+				<span class="image">
+				<img src="{{ site.url | absolute_path}}/{{ post.image }}" alt="" />
+				</span>
+				<header class="major">
+				<h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+				<p>{{ post.description }}</p>
+				</header>
+			</article>
+			{% endfor %}
+		</section>
+	</div>
+	{% include footer.html %}
+
+</body>
+
+</html>
