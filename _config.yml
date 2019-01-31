@@ -1,10 +1,10 @@
 # site settings
-title: Pulickal 
+title: Tony Pulickal 
 subtitle: Ramblings and Reposites
 email: tony@pulickal.net
 description: A personal portfolio, blog, and dumping ground
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: pulickal.net # the base hostname & protocol for your site
+url: tony.pulickal.net # the base hostname & protocol for your site
 author: Tony Pulickal
 street_address: 1234 Somewhere Road
 city: Anyplace 
