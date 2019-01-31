@@ -34,3 +34,10 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+exclude:
+  - backup/
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - .git/
