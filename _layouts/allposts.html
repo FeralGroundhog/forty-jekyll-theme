@@ -19,7 +19,7 @@
       <!-- One -->
       <section id="one">
 	<div class="inner">
-          {% for post in site.posts %}
+    {% for post in site.posts %}
 	  {% if post.title != 404 %}
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
@@ -28,7 +28,7 @@
 	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
 	  <p>{{ post.content }}</p>
 	  {% endif %}
-          {% endfor %}
+    {% endfor %}
 	</div>
       </section>
 
