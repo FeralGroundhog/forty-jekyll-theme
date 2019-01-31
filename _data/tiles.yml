@@ -1,0 +1,8 @@
+- name: Blog
+  path: "blog.html"
+- name: Me
+  path: "me.html"
+  image: assets/images/pic11.jpg
+- name: Projects
+  path: "projects.html"
+  image: assets/images/pic07.jpg
