@@ -2,7 +2,7 @@
   path: "blog.html"
 - name: Me
   path: "me.html"
-  image: assets/images/pic11.jpg
+  image: assets/images/me.jpg
 - name: Projects
   path: "projects.html"
-  image: assets/images/pic07.jpg
+  image: assets/images/bbridge.jpg
