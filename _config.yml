@@ -43,3 +43,4 @@ exclude:
   - .git/
   - s3_website.yml
   - .travis.yml
+  - README.md
