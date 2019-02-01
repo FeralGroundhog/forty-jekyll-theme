@@ -16,7 +16,7 @@
 			{% for post in site.posts %}
 			<article>
 				<span class="image">
-				<img src="{{ site.url | absolute_path}}/{{ post.image }}" alt="" />
+				<img src="{{ post.image | relative_url }}" alt="">
 				</span>
 				<header class="major">
 				<h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
