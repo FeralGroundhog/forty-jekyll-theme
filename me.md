@@ -20,9 +20,9 @@ I consider myself a technologist by [Charles Eaton's](https://www.linkedin.com/i
 
 # Life
 
-I've been tinkering with electronics since I could hold a screwdriver. I am **very** good at taking things apart. Over time, I've gotten better at putting things back together. When I'm not overcomplicating my family's tech situation or playing with an overly attached cat, I like to dabble in hobbies; carefully avoiding the time and money pits that true enthusiasm entails.
+Let's get the most important thing out of the way: I thought I was a dog person but our cat likes all the attention so I'm a cat person now.
 
-I realize this is polarizing so I wanted to start with this: I thought I was a dog person but our cat likes all the attention so I'm a cat person now.
+I've been tinkering with electronics since I could hold a screwdriver. I am **very** good at taking things apart. Over time, I've gotten better at putting things back together. When I'm not overcomplicating my family's tech situation or playing with an overly attached cat, I like to dabble in hobbies; carefully avoiding the time and money pits that true enthusiasm entails.
 
 I'm a regular at local auto meetups when the weather is perfect. I've been thinking about starting up a car blog with a friend for several years now (we'll do it this year, I swear). If you want to chat about "new" models ('90s+), the awful things happening with infotainment systems, the amazing things happening with electric cars, or play my favorite game of "Guess that Headlight/Taillight", email me. If you want to talk about classic cars or stuff like drag coefficients and gear ratios, I'll politely nod for a few minutes.
 
