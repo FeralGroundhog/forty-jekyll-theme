@@ -43,6 +43,18 @@
 					top: 0;
 					width: 100%;
 				}
+
+				&:after {
+					box-shadow: inset 0px 0px 35px 5px transparentize($color: #000000, $amount: 0.25);
+          -webkit-box-shadow: inset 0px 0px 35px 5px transparentize($color: #000000, $amount: 0.25);
+          -moz-box-shadow: inset 0px 0px 35px 5px transparentize($color: #000000, $amount: 0.25);
+					content: '';
+					display: block;
+					height: 100%;
+					position: absolute;
+					top: 0;
+					width: 100%;
+				}
 			}
 
 			> .content {
