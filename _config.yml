@@ -41,3 +41,5 @@ exclude:
   - Gemfile.lock
   - .gitignore
   - .git/
+  - s3_website.yml
+  - .travis.yml
