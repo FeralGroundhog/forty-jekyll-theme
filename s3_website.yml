@@ -1,4 +1,4 @@
 s3_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
 s3_secret: <%= ENV['S3_SECRET_KEY'] %>
-s3_bucket: pulickal-s3-portfolio-staging
+s3_bucket: tony.pulickal.net 
 s3_endpoint: us-east-1
