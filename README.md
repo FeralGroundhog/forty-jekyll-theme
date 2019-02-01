@@ -1,5 +1,5 @@
 # Portfolio
-[![Build Status](https://travis-ci.org/FeralGroundhog/portfolio.svg?branch=master)](https://travis-ci.org/FeralGroundhog/portfolio)
+[![Build Status](https://travis-ci.org/FeralGroundhog/portfolio.svg?branch=release)](https://travis-ci.org/FeralGroundhog/portfolio)
 
 
 
